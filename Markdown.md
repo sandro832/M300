@@ -116,13 +116,14 @@ Um eine Vagrant VM mit einer Box zu erstellen muss man zuerst in einem Ordner se
 ### Testfälle
 
 #### Testfall 1
-![Testfall 1](D:\TBZ\Module\Modul_300\Testfälle\Fall1.PNG)
+![grafik](https://user-images.githubusercontent.com/44832005/110808837-a62a0e00-8284-11eb-96b0-bf8967bd0f7c.png)
 
 #### Testfall 2
-![Testfall 2](D:\TBZ\Module\Modul_300\Testfälle\Fall2.PNG)
+![grafik](https://user-images.githubusercontent.com/44832005/110808928-be9a2880-8284-11eb-813d-787bca726d5a.png)
 
 #### Testfall 3
-![Testfall 3](D:\TBZ\Module\Modul_300\Testfälle\Fall3.PNG)
+![grafik](https://user-images.githubusercontent.com/44832005/110808981-ca85ea80-8284-11eb-806b-76bf19bcba5c.png)
 
 #### Testfall 4
-![Testfall 4](D:\TBZ\Module\Modul_300\Testfälle\Fall4.PNG)
+![grafik](https://user-images.githubusercontent.com/44832005/110809017-d5407f80-8284-11eb-9db0-f6dabdefef7e.png)
+
